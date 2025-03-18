@@ -1,271 +1,69 @@
-2025-03-17 12:18:01,843:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 12:18:01,845:LoginPage:INFO:Verifying Login Page
-2025-03-17 12:18:02,115:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 12:18:02,290:LoginPage:INFO:----successful homepage title---
-2025-03-17 12:18:04,369:LoginPage:INFO:------providing username -----
-2025-03-17 12:18:04,521:LoginPage:INFO:------providing password -----
-2025-03-17 12:18:05,215:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 12:18:05,350:LoginPage:INFO:----successful Login page title---
-2025-03-17 14:53:30,721:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 14:53:30,722:LoginPage:INFO:Verifying Login Page
-2025-03-17 14:53:30,963:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 14:53:33,390:LoginPage:INFO:------providing username -----
-2025-03-17 14:53:33,636:LoginPage:INFO:------providing password -----
-2025-03-17 14:53:34,460:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 14:53:34,475:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 14:53:34,602:LoginPage:INFO:----successful Login page title---
-2025-03-17 14:53:34,663:LoginPage:INFO:----successful homepage title---
-2025-03-17 14:57:16,100:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 14:57:19,876:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 14:57:19,877:LoginPage:INFO:Verifying Login Page
-2025-03-17 14:57:20,106:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 14:57:20,270:LoginPage:INFO:----successful homepage title---
-2025-03-17 14:57:22,317:LoginPage:INFO:------providing username -----
-2025-03-17 14:57:22,711:LoginPage:INFO:------providing password -----
-2025-03-17 14:57:23,816:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 14:57:24,052:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:02:42,077:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:02:42,078:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:02:44,613:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:02:45,168:LoginPage:INFO:------providing username -----
-2025-03-17 15:02:45,396:LoginPage:INFO:------providing password -----
-2025-03-17 15:02:47,010:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:02:47,181:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:02:47,537:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:02:47,680:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:12:25,752:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:12:25,753:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:12:28,636:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:12:28,835:LoginPage:INFO:------providing username -----
-2025-03-17 15:12:29,211:LoginPage:INFO:------providing password -----
-2025-03-17 15:12:30,086:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:12:30,293:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:12:30,618:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:12:30,914:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:13:40,106:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:13:42,736:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:13:42,821:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:13:42,821:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:13:42,909:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:13:45,175:LoginPage:INFO:------providing username -----
-2025-03-17 15:13:45,609:LoginPage:INFO:------providing password -----
-2025-03-17 15:13:46,964:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:13:47,120:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:14:45,506:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:14:47,791:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:14:47,792:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:14:50,020:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:14:50,186:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:14:52,479:LoginPage:INFO:------providing username -----
-2025-03-17 15:14:52,951:LoginPage:INFO:------providing password -----
-2025-03-17 15:14:54,659:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:14:54,931:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:20:04,249:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:20:04,250:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:20:05,891:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:20:08,040:LoginPage:INFO:------providing username -----
-2025-03-17 15:20:08,399:LoginPage:INFO:------providing password -----
-2025-03-17 15:20:11,867:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:20:12,065:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:20:13,608:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:20:13,738:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:25:18,924:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:25:18,924:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:25:21,230:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:25:21,231:LoginPage:INFO:------providing username -----
-2025-03-17 15:25:21,548:LoginPage:INFO:------providing password -----
-2025-03-17 15:25:22,337:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:25:22,530:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:25:23,217:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:25:23,440:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:27:51,549:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:27:53,300:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:27:53,300:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:27:53,411:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:27:53,562:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:27:54,559:LoginPage:INFO:------providing username -----
-2025-03-17 15:27:54,831:LoginPage:INFO:------providing password -----
-2025-03-17 15:27:55,670:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:27:55,869:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:27:58,105:LoginPage:INFO:-------TC03 Login page validation-------
-2025-03-17 15:27:58,105:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:28:00,465:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:28:00,848:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:28:01,570:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:28:01,571:LoginPage:INFO:-----successful login title as expected-----
-2025-03-17 15:28:02,031:LoginPage:INFO:-------TC03 Login page validation-------
-2025-03-17 15:28:02,032:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:30:58,390:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:30:59,868:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:31:00,225:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:31:01,405:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:31:01,406:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:31:04,007:LoginPage:INFO:------providing username -----
-2025-03-17 15:31:04,425:LoginPage:INFO:------providing password -----
-2025-03-17 15:31:05,570:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:31:05,721:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:32:44,247:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:32:45,956:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:32:45,956:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:32:46,151:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:32:46,334:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:32:46,992:LoginPage:INFO:------providing username -----
-2025-03-17 15:32:47,206:LoginPage:INFO:------providing password -----
-2025-03-17 15:32:47,932:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:32:48,149:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:32:50,489:LoginPage:INFO:-------TC03 Login page validation-------
-2025-03-17 15:32:50,489:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:32:51,533:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:32:51,703:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:32:52,415:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:32:52,416:LoginPage:INFO:-----successful login title as expected-----
-2025-03-17 15:32:52,697:LoginPage:INFO:-------TC03 Login page validation-------
-2025-03-17 15:32:52,697:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:38:54,956:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:38:54,957:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:38:57,162:LoginPage:INFO:------providing username -----
-2025-03-17 15:38:57,314:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:38:57,535:LoginPage:INFO:------providing password -----
-2025-03-17 15:38:58,250:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:38:58,395:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:38:59,869:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:39:00,002:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:39:36,447:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:39:38,466:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:39:38,467:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:39:39,276:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:39:39,548:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:39:39,933:LoginPage:INFO:------providing username -----
-2025-03-17 15:39:40,108:LoginPage:INFO:------providing password -----
-2025-03-17 15:39:41,016:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:39:41,253:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:44:15,439:LoginPage:INFO:-------TC03 Login page validation (Row 2) -------
-2025-03-17 15:44:15,440:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:44:17,687:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:44:21,282:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:44:21,294:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:44:21,295:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:44:21,687:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:44:23,027:LoginPage:INFO:------providing username -----
-2025-03-17 15:44:23,108:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:44:23,254:LoginPage:INFO:------providing password -----
-2025-03-17 15:44:23,302:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:44:24,760:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:44:24,810:LoginPage:INFO:Row 2: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:44:24,810:LoginPage:INFO:Row 2: Successful login title as expected.
-2025-03-17 15:44:24,972:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:44:27,327:LoginPage:INFO:-------TC03 Login page validation (Row 3) -------
-2025-03-17 15:44:27,328:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:44:32,641:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:44:32,814:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:44:33,667:LoginPage:INFO:Row 3: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:44:33,667:LoginPage:INFO:Row 3: Test did not match the expected result.
-2025-03-17 15:44:36,042:LoginPage:INFO:-------TC03 Login page validation (Row 4) -------
-2025-03-17 15:44:36,042:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:44:41,378:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:44:41,577:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:44:42,486:LoginPage:INFO:Row 4: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:44:42,487:LoginPage:INFO:Row 4: Test did not match the expected result.
-2025-03-17 15:44:44,830:LoginPage:INFO:Some Excel login tests failed: ['Pass', 'Fail', 'Fail']
-2025-03-17 15:46:48,511:LoginPage:INFO:-------TC03 Login page validation (Row 2) -------
-2025-03-17 15:46:48,512:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:46:50,835:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:46:50,836:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:46:53,653:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:46:53,989:LoginPage:INFO:------providing username -----
-2025-03-17 15:46:54,438:LoginPage:INFO:------providing password -----
-2025-03-17 15:46:55,783:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:46:55,958:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:46:56,284:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:46:56,469:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:46:57,400:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:46:57,543:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:46:58,062:LoginPage:INFO:Row 2: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:46:58,062:LoginPage:INFO:Row 2: Successful login title as expected.
-2025-03-17 15:47:01,287:LoginPage:INFO:-------TC03 Login page validation (Row 3) -------
-2025-03-17 15:47:01,287:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:47:06,375:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:47:06,531:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:47:07,381:LoginPage:INFO:Row 3: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:47:07,382:LoginPage:INFO:Row 3: Test did not match the expected result.
-2025-03-17 15:47:09,755:LoginPage:INFO:-------TC03 Login page validation (Row 4) -------
-2025-03-17 15:47:09,755:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:47:14,685:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:47:14,829:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:47:15,552:LoginPage:INFO:Row 4: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:47:15,553:LoginPage:INFO:Row 4: Test did not match the expected result.
-2025-03-17 15:47:17,909:LoginPage:INFO:Some Excel login tests failed: ['Pass', 'Fail', 'Fail']
-2025-03-17 15:49:15,751:LoginPage:INFO:-------TC03 Login page validation (Row 2) -------
-2025-03-17 15:49:15,751:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:49:17,950:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:49:17,950:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:49:20,810:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:49:24,167:LoginPage:INFO:------providing username -----
-2025-03-17 15:49:24,433:LoginPage:INFO:------providing password -----
-2025-03-17 15:49:26,242:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:49:26,420:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:49:30,511:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:49:30,749:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:49:31,606:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:49:31,873:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:49:33,962:LoginPage:INFO:Row 2: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:49:33,962:LoginPage:INFO:Row 2: Successful login title as expected.
-2025-03-17 15:49:36,625:LoginPage:INFO:-------TC03 Login page validation (Row 3) -------
-2025-03-17 15:49:36,625:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:50:05,995:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:50:06,428:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:50:07,736:LoginPage:INFO:Row 3: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:50:07,736:LoginPage:INFO:Row 3: Test did not match the expected result.
-2025-03-17 15:50:10,186:LoginPage:INFO:-------TC03 Login page validation (Row 4) -------
-2025-03-17 15:50:10,187:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:50:16,383:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:50:16,777:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:50:17,699:LoginPage:INFO:Row 4: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:50:17,700:LoginPage:INFO:Row 4: Test did not match the expected result.
-2025-03-17 15:50:20,031:LoginPage:INFO:Some Excel login tests failed: ['Pass', 'Fail', 'Fail']
-2025-03-17 15:54:30,545:LoginPage:INFO:-------TC03 Login page validation (Row 2) -------
-2025-03-17 15:54:30,546:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:54:34,619:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:54:35,360:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:54:36,801:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 15:54:36,934:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 15:54:36,935:LoginPage:INFO:Verifying Login Page
-2025-03-17 15:54:39,682:LoginPage:INFO:Row 2: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:54:39,683:LoginPage:INFO:Row 2: Successful login title as expected.
-2025-03-17 15:54:39,800:LoginPage:INFO:------providing username -----
-2025-03-17 15:54:40,138:LoginPage:INFO:------providing password -----
-2025-03-17 15:54:40,369:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:54:40,520:LoginPage:INFO:----successful homepage title---
-2025-03-17 15:54:40,917:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 15:54:41,066:LoginPage:INFO:----successful Login page title---
-2025-03-17 15:54:43,035:LoginPage:INFO:-------TC03 Login page validation (Row 3) -------
-2025-03-17 15:54:43,035:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:54:46,719:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:54:46,936:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:54:47,739:LoginPage:INFO:Row 3: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:54:47,739:LoginPage:INFO:Row 3: Test did not match the expected result.
-2025-03-17 15:54:50,128:LoginPage:INFO:-------TC03 Login page validation (Row 4) -------
-2025-03-17 15:54:50,128:LoginPage:INFO:Verifying Login Page using Excel data
-2025-03-17 15:54:53,815:LoginPage:INFO:------providing username from Excel-----
-2025-03-17 15:54:54,000:LoginPage:INFO:------providing password from Excel-----
-2025-03-17 15:54:54,779:LoginPage:INFO:Row 4: Expected title: Welcome: Mercury Tours | Actual title: Welcome: Mercury Tours
-2025-03-17 15:54:54,780:LoginPage:INFO:Row 4: Test did not match the expected result.
-2025-03-17 15:54:57,112:LoginPage:INFO:Some Excel login tests failed: ['Pass', 'Fail', 'Fail']
-2025-03-17 16:00:32,328:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 16:00:33,965:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 16:00:34,139:LoginPage:INFO:----successful homepage title---
-2025-03-17 16:07:51,976:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 16:07:56,587:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 16:07:56,811:LoginPage:INFO:----successful homepage title---
-2025-03-17 16:08:41,672:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 16:08:43,136:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 16:08:43,348:LoginPage:INFO:----successful homepage title---
-2025-03-17 16:10:03,678:LoginPage:INFO:-------TC01 verifying homepage title-------
-2025-03-17 16:10:06,823:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 16:10:07,028:LoginPage:INFO:----successful homepage title---
-2025-03-17 16:10:10,900:LoginPage:INFO:-------TC02 Login page validation-------
-2025-03-17 16:10:10,900:LoginPage:INFO:Verifying Login Page
-2025-03-17 16:10:12,000:LoginPage:INFO:------providing username -----
-2025-03-17 16:10:12,203:LoginPage:INFO:------providing password -----
-2025-03-17 16:10:13,230:LoginPage:INFO:------getting title=Welcome: Mercury Tours
-2025-03-17 16:10:13,475:LoginPage:INFO:----successful Login page title---
+2025-03-18 03:05:49,670:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 03:05:51,263:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:05:51,379:LoginPage:INFO:----successful homepage title---
+2025-03-18 03:05:55,664:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 03:05:55,664:LoginPage:INFO:Verifying Login Page
+2025-03-18 03:05:56,511:LoginPage:INFO:------providing username -----
+2025-03-18 03:05:56,675:LoginPage:INFO:------providing password -----
+2025-03-18 03:05:57,326:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:05:57,482:LoginPage:INFO:----successful Login page title---
+2025-03-18 03:08:44,699:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 03:08:46,589:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:08:46,717:LoginPage:INFO:----successful homepage title---
+2025-03-18 03:08:50,717:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 03:08:50,718:LoginPage:INFO:Verifying Login Page
+2025-03-18 03:08:51,753:LoginPage:INFO:------providing username -----
+2025-03-18 03:08:51,906:LoginPage:INFO:------providing password -----
+2025-03-18 03:08:52,602:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:08:52,737:LoginPage:INFO:----successful Login page title---
+2025-03-18 03:09:40,774:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 03:09:41,703:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:09:41,833:LoginPage:INFO:----successful homepage title---
+2025-03-18 03:10:08,068:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 03:10:09,023:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 03:10:09,153:LoginPage:INFO:----successful homepage title---
+2025-03-18 04:50:54,571:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 04:50:55,534:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 04:50:55,735:LoginPage:INFO:----successful homepage title---
+2025-03-18 04:51:00,216:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 04:51:00,225:LoginPage:INFO:Verifying Login Page
+2025-03-18 04:51:01,196:LoginPage:INFO:------providing username -----
+2025-03-18 04:51:01,367:LoginPage:INFO:------providing password -----
+2025-03-18 04:51:02,066:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 04:51:02,286:LoginPage:INFO:----successful Login page title---
+2025-03-18 05:32:11,100:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 05:32:12,119:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 05:32:12,252:LoginPage:INFO:----successful homepage title---
+2025-03-18 05:32:16,726:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 05:32:16,726:LoginPage:INFO:Verifying Login Page
+2025-03-18 05:32:17,544:LoginPage:INFO:------providing username -----
+2025-03-18 05:32:17,708:LoginPage:INFO:------providing password -----
+2025-03-18 05:32:18,270:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 05:32:18,383:LoginPage:INFO:----successful Login page title---
+2025-03-18 06:27:21,918:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 06:27:22,763:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:27:22,907:LoginPage:INFO:----successful homepage title---
+2025-03-18 06:27:26,908:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 06:27:26,908:LoginPage:INFO:Verifying Login Page
+2025-03-18 06:27:27,797:LoginPage:INFO:------providing username -----
+2025-03-18 06:27:27,944:LoginPage:INFO:------providing password -----
+2025-03-18 06:27:28,539:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:27:28,654:LoginPage:INFO:----successful Login page title---
+2025-03-18 06:28:12,996:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 06:28:13,950:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:28:14,127:LoginPage:INFO:----successful homepage title---
+2025-03-18 06:28:18,284:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 06:28:18,285:LoginPage:INFO:Verifying Login Page
+2025-03-18 06:28:19,147:LoginPage:INFO:------providing username -----
+2025-03-18 06:28:19,313:LoginPage:INFO:------providing password -----
+2025-03-18 06:28:19,895:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:28:20,024:LoginPage:INFO:----successful Login page title---
+2025-03-18 06:32:24,127:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-18 06:32:25,029:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:32:25,161:LoginPage:INFO:----successful homepage title---
+2025-03-18 06:32:29,002:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-18 06:32:29,002:LoginPage:INFO:Verifying Login Page
+2025-03-18 06:32:29,916:LoginPage:INFO:------providing username -----
+2025-03-18 06:32:30,083:LoginPage:INFO:------providing password -----
+2025-03-18 06:32:30,644:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-18 06:32:30,759:LoginPage:INFO:----successful Login page title---
