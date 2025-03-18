@@ -1,0 +1,1 @@
+pytest -v -s -m "sanity or smoke" --html=Reports/report.html  Testcases/test_logint_testcase.py

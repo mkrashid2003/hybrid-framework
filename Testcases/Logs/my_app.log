@@ -1,0 +1,18 @@
+2025-03-17 14:49:12,923:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-17 14:49:14,105:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-17 14:49:14,203:LoginPage:INFO:----successful homepage title---
+2025-03-17 14:49:17,488:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-17 14:49:17,488:LoginPage:INFO:Verifying Login Page
+2025-03-17 14:49:18,455:LoginPage:INFO:------providing username -----
+2025-03-17 14:49:18,630:LoginPage:INFO:------providing password -----
+2025-03-17 14:49:19,334:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-17 14:49:19,443:LoginPage:INFO:----successful Login page title---
+2025-03-17 15:40:10,504:LoginPage:INFO:-------TC01 verifying homepage title-------
+2025-03-17 15:40:14,223:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-17 15:40:14,488:LoginPage:INFO:----successful homepage title---
+2025-03-17 15:40:17,164:LoginPage:INFO:-------TC02 Login page validation-------
+2025-03-17 15:40:17,165:LoginPage:INFO:Verifying Login Page
+2025-03-17 15:40:18,314:LoginPage:INFO:------providing username -----
+2025-03-17 15:40:18,472:LoginPage:INFO:------providing password -----
+2025-03-17 15:40:19,212:LoginPage:INFO:------getting title=Welcome: Mercury Tours
+2025-03-17 15:40:19,399:LoginPage:INFO:----successful Login page title---
